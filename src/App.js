@@ -6,20 +6,20 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather defaultCity="New York" />
+        <Weather defaultCity="Tehran" />
 
         <footer>
           This project was coded by{" "}
           <a
-            href="https://www.delac.io/"
+            href="https://weather.com/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Matt Delac
+            Elahe
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/wecodeschool/react-weather-app"
+            href="https://weather.com/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -27,7 +27,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://suspicious-beaver-111c4d.netlify.com/"
+            href="https://weather.com/"
             target="_blank"
             rel="noopener noreferrer"
           >
