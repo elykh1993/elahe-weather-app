@@ -10,19 +10,19 @@ export default function App() {
 
         <footer>
           This project was coded by{" "}
-          <a href="https://www.delac.io/" target="_blank">
-            Matt Delac
+          <a href="https://weather.com/" target="_blank">
+            Elahe
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/wecodeschool/react-weather-app"
+            href="https://weather.com/"
             target="_blank"
           >
             open-sourced on GitHub
           </a>{" "}
           and{" "}
           <a
-            href="https://suspicious-beaver-111c4d.netlify.com/"
+            href="https://weather.com/"
             target="_blank"
           >
             hosted on Netlify
